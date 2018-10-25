@@ -21,6 +21,7 @@ it's can install more language plugins.just like github,it's support git push  p
 ## Python
 I recommend Pycharm
 <img src='/img/pycharm.gif'>
-it's from intelliJ IDEA,is a profession for Python
+it's from intelliJ IDEA,is a profession for Python.
 ## Java
 I recommend Eclipse
+<img src='/img/d6b54b60d1aabe929985a009a27ad5b7.gif'>
