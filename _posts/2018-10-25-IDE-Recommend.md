@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:     IDE
-subtitle:  IDE
+title:     IDE recommend
+subtitle:  IDE recommend
 date:       2018-10-25
 author:     张宁
 header-img: img/post-bg-cook.jpg
