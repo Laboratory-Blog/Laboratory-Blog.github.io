@@ -1,0 +1,1 @@
+This applications can record your screen and save it type for gif.
