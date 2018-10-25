@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>feedback</title>
+    <link rel="stylesheet" href="css/feedback.css">
+</head>
+
+<body>
+    <header>
+        <a href="index.html">
+            <img src="img/logo.jpg" alt="logo">
+        </a>
+    </header>
+    <content>
+        <form action="" method="POST">
+            <h3>描述问题</h3>
+            <div>
+                <div>
+                    <i>*</i>问题描述及建议：</div>
+                <textarea minlength="5" maxlength="50" required placeholder="请输入您的问题描述（5-50字）"></textarea>
+            </div>
+            <h3>
+                用户信息</h3>
+            <div>
+                <div>
+                    <i>*</i>联系方式（邮箱）：</div>
+                <input type="email" required placeholder="请输入您的联系方式（邮箱）" />
+            </div>
+            <div>
+                <div>
+                    <i>*</i>昵称：</div>
+                <input type="text" minlength="5" maxlength="15" required placeholder="请输入您的昵称（5-15字）" />
+            </div>
+            <div>
+                <input type="submit" value="提交">
+            </div>
+        </form>
+    </content>
+</body>
+
+</html>
