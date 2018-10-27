@@ -51,4 +51,4 @@ create some parameters to visit our blog page.
 <br>.loadurl can change webview to visit website url.
 <br>
 <code>wv_page.setWebViewClient(new WebViewClient());</code>
-.setwebviewclient can help when prevent this app from jumping out when the button is clicked.
+.setwebviewclient can help when prevent this app from jumping out when the button is clicked.<br>
