@@ -30,3 +30,8 @@ layout has some type,but today,we're only need linearlayout.it's control easy.
 <br>
 enter layout edit text page.
 <img src='/img/android-webapp-choose-layoutfile.gif'>
+and then to change code.
+change line 2 code<br><code>android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android</code><br>
+change to 
+<code>LinearLayout xmlns:android="http://schemas.android.com/apk/res/android</code>
+<img src='/img/android-webapp-change-layout.gif'>
