@@ -38,12 +38,4 @@ change to
 ## Write first
 <img src="/img/android-webapp-create-webviewid.gif">
 del textview code to create webview and new ID for it .
-write code 
-<br>
-<WebView
-        android:id="@+id/wv_page"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-    </WebView>
-<br>
+write code and add ID .   <code>android:id = "@+id/wv_page"</code>
