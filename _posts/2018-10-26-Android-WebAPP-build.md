@@ -52,3 +52,11 @@ create some parameters to visit our blog page.
 <br>
 <code>wv_page.setWebViewClient(new WebViewClient());</code>
 .setwebviewclient can help when prevent this app from jumping out when the button is clicked.<br>
+## Run app on virtual phone
+<img src='/img/android-webapp-run-virtual-phong.gif'>
+yes we can see it's show us net::ERR_CACHE_MISS.
+<br>
+why did it happen this? because we not give app visit Internet permission
+## Give it permission for Internet
+<img src="/img/android-webapp-add-promission.gif">
+enter manifests file and add code <code><uses-permission android:name="android.permission.INTERNET"/></code>
