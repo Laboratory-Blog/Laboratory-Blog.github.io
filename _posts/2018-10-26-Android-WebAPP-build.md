@@ -48,5 +48,7 @@ enter java page to add registration component.
 create some parameters to visit our blog page.
 <img src='/img/android-webapp-add-parameters.gif'>
 <code>wv_page.loadurl="https://laboratory-blog.github.io"</code>
+<br>.loadurl can change webview to visit website url.
 <br>
 <code>wv_page.setWebViewClient(new WebViewClient());</code>
+.setwebviewclient can help when prevent this app from jumping out when the button is clicked.
