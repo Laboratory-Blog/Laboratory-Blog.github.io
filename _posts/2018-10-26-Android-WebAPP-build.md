@@ -60,3 +60,6 @@ why did it happen this? because we not give app visit Internet permission
 ## Give it permission for Internet
 <img src="/img/android-webapp-add-promission.gif">
 enter manifests file and add code <code>uses-permission android:name="android.permission.INTERNET"</code>
+## Run it again
+<img src="/img/android-webapp-run-virtual-phong-again.gif">
+yes it's can visit our blog site normal.
