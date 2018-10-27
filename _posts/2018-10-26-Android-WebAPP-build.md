@@ -42,5 +42,9 @@ write code and add ID <br> <code>android:id = "@+id/wv_page"</code>
 ## Registration component
 <img src="/img/android-webapp-registration-component.gif">
 enter java page to add registration component.
-<code>private WebView wv_page;</code>
+<code>private WebView wv_page;</code><br>
 <code>wv_page=(WebView)findViewById(R.id.wv_page);</code>
+## Add parameters
+create some parameters to visit our blog page.
+<img src='/img/android-webapp-add-parameters.gif'>
+<code>wv_page.loadurl="https://laboratory-blog.github.io"</code>
