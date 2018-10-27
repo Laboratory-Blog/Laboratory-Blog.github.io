@@ -21,3 +21,4 @@ i change my theme to  <code>Theme.AppCompat.NoActionBar</code> , and change app 
 now.let's back Virtual phone .run it again.
 ## Deck done
 <img src='/img/android-deck-runagain.gif'>
+bye~
