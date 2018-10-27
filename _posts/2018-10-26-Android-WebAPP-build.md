@@ -40,12 +40,10 @@ change to
 del textview code to create webview and new ID for it .
 write code 
 <br>
-<code>
-    WebView
+<WebView<br>
         android:id="@+id/wv_page"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-
-    WebView
-
-</code>
+        <br>android:layout_width="match_parent"
+        <br>android:layout_height="match_parent">
+<br>
+    </WebView>
+<br>
