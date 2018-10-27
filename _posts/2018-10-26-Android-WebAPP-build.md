@@ -59,4 +59,4 @@ yes we can see it's show us net::ERR_CACHE_MISS.
 why did it happen this? because we not give app visit Internet permission
 ## Give it permission for Internet
 <img src="/img/android-webapp-add-promission.gif">
-enter manifests file and add code <code><uses-permission android:name="android.permission.INTERNET"/></code>
+enter manifests file and add code <code>uses-permission android:name="android.permission.INTERNET"</code>
