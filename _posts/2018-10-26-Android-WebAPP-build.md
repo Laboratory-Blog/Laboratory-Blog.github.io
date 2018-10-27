@@ -36,3 +36,4 @@ change to
 <code>LinearLayout xmlns:android="http://schemas.android.com/apk/res/android</code>
 <img src='/img/android-webapp-change-layout.gif'>
 ## Write first
+<img src="/img/android-webapp-create-webviewid.gif">
