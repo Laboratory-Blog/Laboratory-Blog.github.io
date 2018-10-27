@@ -11,3 +11,6 @@ tags:
     - Java
     - Programming Language
 ---
+## Start Deck
+<img src='/img/'>
+We can see that it’s hard to see the label at the top of the screen, and the new app is ugly, so let’s landscaping this time.
