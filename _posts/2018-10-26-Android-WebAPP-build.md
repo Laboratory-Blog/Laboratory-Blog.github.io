@@ -7,5 +7,7 @@ author:     张宁
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - Kits
+    - Android
+    - Java
+    - Programming Language
 ---
