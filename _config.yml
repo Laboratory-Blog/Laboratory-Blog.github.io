@@ -19,10 +19,10 @@ sidebar-avatar: /img/cropped-photo_4_5aabc2706f012.jpg      # use absolute URL, 
 # SNS settings
 RSS: false
 # weibo_username:     laboratory-blog
-zhihu_username:     laboratory-blog
+#zhihu_username:     laboratory-blog
 github_username:    laboratory-blog
-facebook_username:   laboratory-blog
-jianshu_username:   laboratory-blog
+#facebook_username:   laboratory-blog
+#jianshu_username:   laboratory-blog
 #twitter_username:   laboratory-blog
 
 
