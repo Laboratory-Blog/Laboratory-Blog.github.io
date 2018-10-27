@@ -17,3 +17,6 @@ Our team member ask my why can't open menu,it's problem for JS,because i not add
 ## Repair
 enter Java file,and insert code about webview support javascript.
 <img src="/img/android-webapp-bug-repair.gif">
+add code <br><code> WebSettings wvset = wv_page.getSettings();</code>
+ <br> <code>wvset.setJavaScriptEnabled(true);</code>
+ and run it again.
