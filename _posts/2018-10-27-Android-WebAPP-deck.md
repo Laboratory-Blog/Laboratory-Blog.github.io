@@ -12,5 +12,6 @@ tags:
     - Programming Language
 ---
 ## Start Deck
-<img src='/img/'>
+<img src='/img/deck-awebapp-page.png'>
 We can see that it’s hard to see the label at the top of the screen, and the new app is ugly, so let’s landscaping this time.
+## Simple Change for Manifests file
