@@ -2,7 +2,7 @@
 layout:     post
 title:     Android Webapp Compile
 subtitle:  Android develop 
-date:       2018-10-27 
+date:       2018-10-28 
 author:     张宁
 header-img: img/post-bg-cook.jpg
 catalog: true
