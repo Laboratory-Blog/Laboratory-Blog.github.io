@@ -37,3 +37,15 @@ change to
 <img src='/img/android-webapp-change-layout.gif'>
 ## Write first
 <img src="/img/android-webapp-create-webviewid.gif">
+del textview code to create webview and new ID for it .
+write code 
+<br>
+<code>
+    <WebView
+        android:id="@+id/wv_page"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </WebView>
+
+</code>
