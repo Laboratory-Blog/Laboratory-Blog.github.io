@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:     Android Webapp
+title:     Android Webapp Build
 subtitle:  Android develop 
-date:       2018-10-26  
+date:       2018-10-27 
 author:     张宁
 header-img: img/post-bg-cook.jpg
 catalog: true
@@ -64,4 +64,4 @@ enter manifests file and add code <code>uses-permission android:name="android.pe
 <img src="/img/android-webapp-run-virtual-phong-again.gif">
 yes it's can visit our blog site normal.
 ## End
-it's OK,now.and the last time,i will push about how to push and how to made youself key for app.bye
+it's OK,now.and the last time,i will push about how to push and how to made youself key for app,bye.
