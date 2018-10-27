@@ -35,7 +35,9 @@ change line 2 code<br><code>android.support.constraint.ConstraintLayout xmlns:an
 change to 
 <code>LinearLayout xmlns:android="http://schemas.android.com/apk/res/android</code>
 <img src='/img/android-webapp-change-layout.gif'>
-## Write first
+## Add Webview
 <img src="/img/android-webapp-create-webviewid.gif">
 del textview code to create webview and new ID for it .
-write code and add ID .   <code>android:id = "@+id/wv_page"</code>
+write code and add ID <br> <code>android:id = "@+id/wv_page"</code>
+## Registration component
+<img src="/img/android-webapp-registration-component.gif">
