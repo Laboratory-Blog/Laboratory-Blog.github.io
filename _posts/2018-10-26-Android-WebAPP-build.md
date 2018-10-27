@@ -63,3 +63,5 @@ enter manifests file and add code <code>uses-permission android:name="android.pe
 ## Run it again
 <img src="/img/android-webapp-run-virtual-phong-again.gif">
 yes it's can visit our blog site normal.
+## End
+it's OK,now.and the last time,i will push about how to push and how to made youself key for app.
