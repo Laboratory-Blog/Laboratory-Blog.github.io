@@ -41,3 +41,6 @@ del textview code to create webview and new ID for it .
 write code and add ID <br> <code>android:id = "@+id/wv_page"</code>
 ## Registration component
 <img src="/img/android-webapp-registration-component.gif">
+enter java page to add registration component.
+<code>private WebView wv_page;</code>
+<code>wv_page=(WebView)findViewById(R.id.wv_page);</code>
