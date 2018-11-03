@@ -10,7 +10,6 @@ tags:
     - Linux
     
 ---
-
 ## VI & VIM
 The difference between vi and vim
 They are all multi-mode editors, the difference is that vim is an upgraded version of vi, it is not only compatible with all the instructions of vi, but also some new features.
@@ -42,6 +41,7 @@ Low line mode: can save files, exit vi, set vi, find and other functions (low li
 
 First, open the file, save, close the file (used in vi command mode)
 
+<img src='/img/vi-vim-command-vim.gif'><br>
 Vi filename //Open the filename file
 :w //Save the file
 :w vpser.net //Save to vpser.net file
