@@ -18,7 +18,7 @@ These advantages of vim are mainly reflected in the following aspects:
 1, multi-level undo
 We know that in vi, pressing u can only undo the last command, and in vim you can undo it without restriction.
 
-2, ease of use
+2, ease of to use
 
 Vi can only run in Unix, and vim can not only run on Unix, windows, mac and other multi-operation platforms.
 
@@ -52,7 +52,7 @@ Vi filename //Open the filename file
  
 
 Second, insert text or line (vi command mode use, execute the following command will enter insert mode, press ESC key to exit insert mode)
-
+`
 a //Add text to the right of the current cursor position
 i //Add text to the left of the current cursor position
 A //Add text at the end of the current line
