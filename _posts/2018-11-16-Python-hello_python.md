@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:     Hello Python
-subtitle:  Hello Python
+subtitle:  Python
 date:       2018-11-14
 author:     Yoo
 header-img: img/py.jpg
