@@ -21,4 +21,18 @@ if you has internet,you can install it on your pro repo.just like debian (up 8) 
 ## Get the system type and open port of the remote host
 nmap -sS -P0 -sV -O target
 <img src="/img/computer-science-nmap-sS-P0-sV-O-target.gif">
+Here target can be a single IP, or hostname, or domain name, or subnet
+
+-sS TCP SYN scan (also known as semi-open, or stealth scan)
+-P0 allows you to turn off ICMP ping.
+-sV open system version detection
+-O tries to identify the remote operating system
+
+Other options:
+
+-A simultaneously open operating system fingerprint and version detection
+-v Detailed output scan situation.
+## List the list of hosts with the specified ports open
+nmap -sT -p 80 -oG – 192.168.1.* | grep open
+<img src="/img/computer-science-nmap-sT-p80-oG-taget-grep-open">
 
