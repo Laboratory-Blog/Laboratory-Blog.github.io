@@ -42,26 +42,26 @@ nmap -sP target
 let's do it in my test space has 2 phone 2 computer and 1 router scan now.
 the result
 [root@localhost aslt]# nmap -sP 192.168.1.0/24
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2018-11-17 10:09 EST
-Nmap scan report for 192.168.1.1
-Host is up (0.0022s latency).
-MAC Address: CC:34:29:3C:76:50 (Tp-link Technologies)
-Nmap scan report for 192.168.1.104
-Host is up (0.00045s latency).
-MAC Address: 60:67:20:C8:45:9C (Intel Corporate)
-Nmap scan report for 192.168.1.105
-Host is up (0.20s latency).
-MAC Address: 88:33:14:31:D6:73 (Texas Instruments)
-Nmap scan report for 192.168.1.126
-Host is up (0.15s latency).
-MAC Address: 20:5D:47:52:4E:0A (vivo Mobile Communication)
-Nmap scan report for 192.168.1.132
-Host is up.
-
+<br>
+Starting Nmap 7.40 ( https://nmap.org ) at 2018-11-17 10:09 EST<br>
+Nmap scan report for 192.168.1.1<br>
+Host is up (0.0022s latency).<br>
+MAC Address: CC:34:29:3C:76:50 (Tp-link Technologies)<br>
+Nmap scan report for 192.168.1.104<br>
+Host is up (0.00045s latency).<br>
+MAC Address: 60:67:20:C8:45:9C (Intel Corporate)<br>
+Nmap scan report for 192.168.1.105<br>
+Host is up (0.20s latency).<br>
+MAC Address: 88:33:14:31:D6:73 (Texas Instruments)<br>
+Nmap scan report for 192.168.1.126<br>
+Host is up (0.15s latency).<br>
+MAC Address: 20:5D:47:52:4E:0A (vivo Mobile Communication)<br>
+Nmap scan report for 192.168.1.132<br>
+Host is up.<br>
+<br>
 Nmap done: 256 IP addresses (5 hosts up) scanned in 5.22 seconds
-
-yes it's scan get  5 target .  and i said in my space has 5 device.
+<br>
+yes it's scan get  5 target .  and i said in my space has 5 device.<br>
 let's looking progress
 <img src="/img/computer-science-nmap-sP-target.gif">
 ## Done
