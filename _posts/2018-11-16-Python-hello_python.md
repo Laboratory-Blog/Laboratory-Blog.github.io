@@ -21,7 +21,7 @@ On linux you have python2 but you need to install python3
 <strong>sudo apt-get install python3</strong><br>
 after this line pasted in terminal you need to enter your password (I expect you know how to install apps your your OS).
 On windows is more easy (maybe :D ) you must go to <a href="http://www.python.org">python official site</a> and download the installer after you start installation process you need to click on box add python to path (her also number of current version will be included).
-<img src="/img/py-yoo-inst.jpg">
+<img src="img/py-yoo-inst.jpg">
 <br>
 Second thin you need is text editor in this post I'll assume you have python3 and text editor to can run code.
 IDE is cool but for beginner I recommend hard way type code in text editor and run it via terminal or cmd depend of OS (operation system).
@@ -38,7 +38,7 @@ print('enter your name:')
 name = input()
 print('Hello ', name, ' !!!')
 </pre>
-<img src="/img/py-yoo-version.png">
+<img src="img/py-yoo-version.png">
 ## explanation
 First row show our best know function print which show to screen  message in this case "enter your name" in print you can use both single and double quotes.
 Second create variable and assign function input. Fist variable is container for data in python you need just to write name of variable and to assign value to it. Python automatically define type of variable we'll talk more about data type and variable in next posts for now just remember that variable is container for data (data could be integer, float or string/text).<br>
