@@ -61,4 +61,6 @@ Host is up.
 
 Nmap done: 256 IP addresses (5 hosts up) scanned in 5.22 seconds
 
+yes it's scan get  5 target .  and i said in my space has 5 device.
+let's looking progress
 <img src="/img/computer-science-nmap-sP-target.gif">
