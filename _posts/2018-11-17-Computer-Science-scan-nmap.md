@@ -33,6 +33,7 @@ Other options:
 -A simultaneously open operating system fingerprint and version detection
 -v Detailed output scan situation.
 ## List the list of hosts with the specified ports open
-nmap -sT -p 80 -oG – 192.168.1.* | grep open
-<img src="/img/computer-science-nmap-sT-p80-oG-taget-grep-open">
+nmap -sT -p 80 -oG – 192.168.1.* | grep open<br>
+my host has opened the apache2 service, so he started port 80 by default. Let's scan it
+<img src="/img/computer-science-nmap-sT-p80-oG-taget-grep-open.gif">
 
