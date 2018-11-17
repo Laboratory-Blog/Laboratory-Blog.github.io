@@ -39,7 +39,7 @@ name = input()
 print('Hello ', name, ' !!!')
 </pre>
 <img src="pyex1_screen.png">
-<h2>explanation</h2>
+## explanation
 First row show our best know function print which show to screen  message in this case "enter your name" in print you can use both single and double quotes.
 Second create variable and assign function input. Fist variable is container for data in python you need just to write name of variable and to assign value to it. Python automatically define type of variable we'll talk more about data type and variable in next posts for now just remember that variable is container for data (data could be integer, float or string/text).<br>
 <strong>Input</strong> function give to us opportunity to take user input and what user type in terminal will be stored in our variable name so in our case we expect string/text data type.<br>
