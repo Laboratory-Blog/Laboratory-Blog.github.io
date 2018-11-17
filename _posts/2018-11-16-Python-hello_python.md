@@ -7,9 +7,10 @@ author:     Yoo
 header-img: img/py.jpg
 catalog: true
 tags:
-    - Python-Programming
+    - Python
 ---
-##Introducing
+
+## Introducing
 Let's say hello to python first what is python ??? Python is general purpose programming languages this mean you can do
 everything with this language from gui to web site. Okay if this sound cool lest beginning with basic syntax of languages.
 <br>
