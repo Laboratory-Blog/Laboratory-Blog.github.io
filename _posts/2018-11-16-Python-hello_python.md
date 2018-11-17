@@ -38,7 +38,9 @@ print('enter your name:')
 name = input()
 print('Hello ', name, ' !!!')
 </pre>
-<img src="img/py-yoo-version.png">
+<br>
+<img src="/img/py-yoo-version.png">
+<br>
 ## explanation
 First row show our best know function print which show to screen  message in this case "enter your name" in print you can use both single and double quotes.
 Second create variable and assign function input. Fist variable is container for data in python you need just to write name of variable and to assign value to it. Python automatically define type of variable we'll talk more about data type and variable in next posts for now just remember that variable is container for data (data could be integer, float or string/text).<br>
