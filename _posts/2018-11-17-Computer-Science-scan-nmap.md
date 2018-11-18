@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     Computer Science the Nmap
+title:     Nmap
 subtitle:  Computer Science
 date:       2018-11-17
 author:     张宁
